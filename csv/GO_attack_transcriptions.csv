@@ -1,0 +1,111 @@
+File Name,First Attack Transcription,Final Attack Transcription,First Attack Epoch,Final Attack Epoch
+769.wav,GA,GA,25,25
+34.wav,GOU,GOUT,50,51
+182.wav,GON,GAN,54,58
+453.wav,GIR,NO,44,69
+473.wav,HO,HO,39,39
+309.wav,GOA,GOA,38,38
+264.wav,JO,JO,34,34
+267.wav,GA,GA,32,32
+19.wav,JO,JO,63,63
+812.wav,GA,GA,38,38
+329.wav,GONE,GONE,68,68
+499.wav,GILE,GAL,59,69
+457.wav,GOR,GIRL,55,56
+669.wav,O,CO,68,71
+313.wav,JO,JO,39,39
+474.wav,GE,GE,65,65
+689.wav,JO,JO,61,61
+813.wav,GUA,DO,1,65
+27.wav,O,CA,21,29
+3.wav,DO,DO,59,59
+209.wav,GAT,GAT,44,44
+167.wav,LO,LO,43,43
+184.wav,JO,JO,12,12
+53.wav,CO,CO,49,49
+252.wav,O,HA,2,35
+249.wav,GA,GA,44,44
+314.wav,GOD,GOD,58,58
+317.wav,GALL,GALL,49,49
+272.wav,GA,GA,28,28
+269.wav,GLO,GOV,15,20
+39.wav,KA,KA,55,55
+817.wav,JO,JO,1,1
+38.wav,O,GILD,22,65
+798.wav,CO,CO,44,44
+442.wav,GOR,GIRL,38,39
+504.wav,JOE,JOE,59,59
+459.wav,YO,YO,12,12
+524.wav,CO,CO,32,32
+739.wav,GOD,GOD,37,37
+482.wav,GOB,GOB,36,36
+318.wav,GLO,GOA,16,50
+818.wav,GULL,GULL,44,44
+423.wav,HO,HO,53,53
+426.wav,O,NO,15,17
+799.wav,GOA,GOA,40,40
+443.wav,YO,YO,1,1
+446.wav,NO,NO,68,68
+237.wav,NO,NO,49,49
+189.wav,JO,JO,16,16
+254.wav,CAL,CAL,40,40
+466.wav,GIRL,GIRL,60,60
+734.wav,GLOB,GLOB,20,20
+528.wav,COW,COW,88,88
+483.wav,YO,YO,8,8
+274.wav,GA,GA,50,50
+754.wav,GAN,GAN,51,51
+489.wav,YO,YO,42,42
+822.wav,GALL,GALL,52,52
+421.wav,GIRL,GIRL,1,1
+424.wav,NO,NO,38,38
+173.wav,CO,CO,29,29
+441.wav,KO,KA,8,11
+444.wav,NO,NO,26,26
+33.wav,CO,CO,24,24
+303.wav,GOL,DOLL,24,27
+673.wav,GE,GE,23,23
+323.wav,GLO,THERE,56,59
+484.wav,GOU,GIRD,42,47
+487.wav,GIR,GOO,68,70
+823.wav,GLO,GLOW,17,30
+4.wav,GON,CON,50,51
+448.wav,NO,NO,60,60
+194.wav,GOT,GOT,49,49
+674.wav,CO,CO,49,49
+471.wav,GOL,GIRL,55,57
+307.wav,GOA,GOA,44,44
+48.wav,GAU,GA,0,2
+468.wav,GO UP,GO UP,67,67
+44.wav,CO,CO,32,32
+324.wav,GOL,NO,42,66
+327.wav,GON,GIN,69,74
+804.wav,GOLL,GOAL,37,38
+807.wav,TO,TO,52,52
+488.wav,NO,NO,38,38
+279.wav,GOO,GOO,1,1
+824.wav,GOLL,GALL,46,47
+406.wav,NO,NO,23,23
+429.wav,TO,TO,1,1
+178.wav,JO,JO,49,49
+449.wav,HEM,HEM,63,63
+302.wav,SO,SO,20,20
+684.wav,GOL,GEL,32,38
+8.wav,CO,CO,81,81
+263.wav,GA,GA,19,19
+469.wav,GO O,GO OUT,3,9
+749.wav,GAL,GAL,40,40
+492.wav,GIR,GAL,45,47
+328.wav,GOLL,GOD,69,80
+808.wav,GOLD,GOLD,40,40
+763.wav,GAL,GAL,40,40
+
+Average Stats
+First Success Rate (%),100.00
+Final Success Rate (%),100.00
+Average First Attack Time (s),133.25
+Average Final Attack Time (s) for successful attacks,148.35
+Average First SNR (dB),-8.17
+Average Final SNR (dB) for successful attacks,-9.32
+Average First Attack Epoch,38.78
+Average Final Attack Epoch for successful attacks,42.02

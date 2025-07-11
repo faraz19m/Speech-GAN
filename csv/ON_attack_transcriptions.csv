@@ -1,0 +1,111 @@
+File Name,First Attack Transcription,Final Attack Transcription,First Attack Epoch,Final Attack Epoch
+1959.wav,ONY,ON IT,26,43
+1714.wav,AM,AM,52,52
+1981.wav,ONG,HAN,47,50
+1719.wav,AM,AM,57,57
+1651.wav,OON,HON,31,38
+1543.wav,ORN,ARM,55,56
+1963.wav,HON,HON,42,42
+1973.wav,U,DOM,70,76
+1643.wav,AM,AM,56,56
+1829.wav,N,AN,58,59
+1988.wav,AN,AN,39,39
+1833.wav,OM,OM,1,1
+1929.wav,O,HM,62,97
+1554.wav,ALL YOU,ALL YOU,1,1
+1933.wav,O,OM,0,3
+1894.wav,O,ONE,57,83
+1497.wav,AN,AN,33,33
+1943.wav,ONY,BONNY,38,39
+1966.wav,ARN,AN,97,98
+1948.wav,UN,HONOR,50,51
+1489.wav,OUN,OWN,30,52
+1907.wav,AN,AN,88,88
+1664.wav,AN,AN,45,45
+1958.wav,AN,AN,44,44
+1493.wav,N,HEN,43,71
+1911.wav,UN,AN,37,43
+1962.wav,PON,TON,29,37
+1921.wav,UN,BUN,59,60
+1903.wav,UN,AN,46,61
+1506.wav,N,AN,18,78
+1972.wav,ANI,ANI,68,68
+1936.wav,AN,AN,42,42
+1828.wav,OM,OM,36,36
+1693.wav,,AN,39,50
+1897.wav,UN,AN,69,74
+1918.wav,HON,HON,22,22
+1783.wav,AN,AN,25,25
+1832.wav,AN,AN,35,35
+1928.wav,UN,DUN,35,37
+1639.wav,O,WAN,3,65
+1706.wav,ONG,OM,50,57
+1667.wav,OON,ANI,70,76
+1979.wav,ONE,ONE,24,24
+1932.wav,I,IN,46,52
+1824.wav,N,HEM,46,94
+1983.wav,AN,AN,35,35
+1612.wav,AN,AN,37,37
+1924.wav,UN,AN,41,49
+1993.wav,AN,AN,33,33
+1947.wav,AN,AN,38,38
+1488.wav,AN,AN,41,41
+1906.wav,AN,AN,74,74
+1578.wav,OM,OM,72,72
+1998.wav,OM,OM,33,33
+1627.wav,ONG,WONG,21,42
+1492.wav,AN,AN,44,44
+1609.wav,AM,AM,29,29
+1619.wav,ONG,LONG,50,51
+1953.wav,ONIT,ON IT,35,37
+1584.wav,ONG IT,ON IT,2,51
+1896.wav,AN,AN,45,45
+1548.wav,AN,AN,48,48
+1968.wav,UN,HOUR,32,43
+1831.wav,OON,AN,44,57
+1909.wav,N,AN,68,69
+1882.wav,ON IT,ON IT,22,22
+1666.wav,ONG,AN,45,52
+1978.wav,UN,UM,49,58
+1552.wav,HAM,HAM,36,36
+1982.wav,ALLY,ALLY,26,26
+1941.wav,N,EN,89,95
+1652.wav,AN,AN,51,51
+1544.wav,N,DOWN,21,28
+1748.wav,HAN,HAN,63,63
+1923.wav,AN,AN,55,55
+1946.wav,AN,AN,37,37
+1487.wav,OWN,OWN,35,35
+1662.wav,HAN,HAN,57,57
+1508.wav,AN,AN,42,42
+1889.wav,UN,AN,2,40
+1956.wav,ON IT,ON IT,35,35
+1559.wav,OM,OM,31,31
+1677.wav,HON,HON,2,2
+1569.wav,AN,AN,31,31
+1659.wav,OM,OM,4,4
+1834.wav,AN,AN,16,16
+1708.wav,ONG,ALLY,37,43
+1669.wav,HON,HON,81,81
+1532.wav,AL,AL,37,37
+1952.wav,AN,AN,57,57
+1934.wav,ONM,EN,49,83
+1604.wav,AM,AM,57,57
+1916.wav,AN,AN,77,77
+1877.wav,UN,AN,35,41
+1944.wav,UN,COM,51,61
+1967.wav,AN,AN,55,55
+1614.wav,OM,OM,29,29
+1926.wav,CON,CON,51,51
+1908.wav,ORN,ARNE,39,41
+1977.wav,AN,AN,40,40
+
+Average Stats
+First Success Rate (%),100.00
+Final Success Rate (%),100.00
+Average First Attack Time (s),134.63
+Average Final Attack Time (s) for successful attacks,159.90
+Average First SNR (dB),-11.72
+Average Final SNR (dB) for successful attacks,-13.16
+Average First Attack Epoch,41.87
+Average Final Attack Epoch for successful attacks,48.07

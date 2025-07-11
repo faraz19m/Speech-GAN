@@ -1,0 +1,111 @@
+File Name,First Attack Transcription,Final Attack Transcription,First Attack Epoch,Final Attack Epoch
+139.wav,F,LESS,74,90
+204.wav,YAS,AS,77,80
+162.wav,F,YE IS,56,59
+34.wav,Y S,ES,141,238
+224.wav,MMIS,THIS,48,52
+13.wav,ES,ES,57,57
+182.wav,S,ES,52,53
+37.wav,AS,AS,77,77
+179.wav,ERIS,ERIS,59,59
+199.wav,YES MO,YES MO,97,97
+123.wav,YAS,HE ASKED,70,72
+19.wav,YES AN,YES AN,55,55
+117.wav,YERS,NURSE,45,46
+143.wav,ES,ES,38,38
+208.wav,IAF,HE OFF,80,83
+163.wav,E ES,ES,82,91
+42.wav,YESD,ASP,52,97
+222.wav,ES,ES,0,0
+228.wav,S,ERSE,50,84
+49.wav,YIS,HE ISN'T,100,101
+183.wav,S,YOU ASK,72,79
+24.wav,S,ES,59,60
+124.wav,NEST,NEST,67,67
+27.wav,AS,AS,51,51
+127.wav,S,AS,42,46
+144.wav,YS,HALF,94,114
+3.wav,ES,ES,51,51
+99.wav,ES,ES,3,3
+147.wav,YOU ASK,YOU ASK,101,101
+209.wav,F,ES,45,78
+164.wav,YERS,YE ASK,89,91
+167.wav,NESS,NESS,66,66
+184.wav,YAS,AS,105,106
+187.wav,S,LES,86,142
+53.wav,ES,ES,67,67
+32.wav,ES,ES,28,28
+122.wav,YYES,ES,78,83
+39.wav,HE ASKD,HE ASKED,88,89
+128.wav,S,ES,91,131
+142.wav,AS,AS,61,61
+14.wav,LESS,LESS,96,96
+148.wav,S,LESS,98,107
+38.wav,F,LAUGH,54,73
+213.wav,S,LES,58,67
+207.wav,HE ASKED,HE ASKED,57,57
+168.wav,ES,ES,51,51
+17.wav,YEST,YEST,52,52
+7.wav,NES,MAS,84,85
+233.wav,YS,JESS,12,51
+188.wav,ASKED,ASKED,94,94
+129.wav,NES,LES,60,65
+43.wav,S,HE ASKED,45,67
+152.wav,LESS,LESS,71,71
+22.wav,S,ES,68,69
+149.wav,ESK,ES,34,42
+214.wav,,NE,66,105
+217.wav,LES,LES,6,6
+172.wav,YEST,YEST,83,83
+29.wav,S,ES,67,71
+169.wav,YAS,AS,86,88
+192.wav,S,AS,68,114
+189.wav,YYES,NEXT,94,106
+28.wav,S,ES,45,46
+113.wav,YEES,JEST,44,60
+133.wav,S,YE IS,67,73
+79.wav,YES O,YES HE,42,53
+153.wav,S,LES,60,82
+212.wav,ES,ES,47,47
+54.wav,YS,HE HAS,54,65
+218.wav,S,YE HAVE,54,73
+173.wav,YEES,IS,59,97
+33.wav,ES,ES,71,71
+193.wav,S,ES,90,95
+12.wav,S,ES,62,96
+114.wav,THUS,THUS,61,61
+134.wav,YS,HE ASKED,44,62
+137.wav,ES,ES,50,50
+18.wav,ES,ES,162,162
+83.wav,YAS,AS,78,82
+154.wav,YES O,ES,70,93
+157.wav,YEF,ET,126,186
+174.wav,YEES,ES,107,131
+177.wav,ENIS,NESS,68,79
+4.wav,YES B,YES BI,25,32
+194.wav,S,HE ASKED,61,85
+197.wav,ES,ES,37,37
+48.wav,S,ES,49,53
+44.wav,S,HE LEFT,94,108
+112.wav,ES,ES,42,42
+118.wav,ENES,MES,47,49
+23.wav,Y S,HE ASKED,52,58
+132.wav,S,WERT,48,225
+47.wav,S,ES,40,73
+138.wav,S,YOU HAVE,85,104
+203.wav,ES,ES,72,72
+158.wav,S,YE ASK,48,60
+77.wav,LAS,LAST,60,88
+198.wav,NES,AS,49,95
+8.wav,ES,ES,114,114
+119.wav,JEST,JEST,81,81
+
+Average Stats
+First Success Rate (%),100.00
+Final Success Rate (%),100.00
+Average First Attack Time (s),209.90
+Average Final Attack Time (s) for successful attacks,252.56
+Average First SNR (dB),-15.10
+Average Final SNR (dB) for successful attacks,-16.72
+Average First Attack Epoch,65.23
+Average Final Attack Epoch for successful attacks,78.03

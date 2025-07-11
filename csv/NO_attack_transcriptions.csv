@@ -1,0 +1,111 @@
+File Name,First Attack Transcription,Final Attack Transcription,First Attack Epoch,Final Attack Epoch
+204.wav,NA,NA,48,48
+34.wav,NOW,NOW,69,69
+224.wav,MAN,MAN,134,134
+182.wav,NAIL,NAIL,38,38
+37.wav,NOW,NOW,37,37
+244.wav,NOW,NOW,45,45
+247.wav,NA,NA,44,44
+309.wav,O,AN ALL,23,41
+264.wav,NARO,NA,67,72
+267.wav,O,NA,46,50
+332.wav,NOWL,NOR,26,54
+329.wav,HOR,MY HEART,58,61
+287.wav,NOW,NOW,80,80
+63.wav,NOLL,IN ALL,12,20
+202.wav,NAIL,NAIL,46,46
+208.wav,NE,NE,52,52
+222.wav,NAW,NON,55,61
+49.wav,LO,LO,42,42
+313.wav,NOLL,AN ALL,39,40
+24.wav,NOW,NOW,61,61
+268.wav,NOW,NOW,58,58
+333.wav,NOLL,NORMAL,0,57
+27.wav,NOW,NOW,50,50
+92.wav,OL,IN ALL,29,33
+3.wav,NOW,NOW,37,37
+209.wav,NOW,NOW,51,51
+167.wav,NOME,NOME,59,59
+229.wav,NOT,NOT,50,50
+184.wav,NOO,NOW,25,66
+187.wav,NOLL,NE,53,58
+53.wav,NOW,NOW,88,88
+252.wav,HA,HA,47,47
+314.wav,NOR,NOR,115,115
+317.wav,NA,NA,57,57
+32.wav,NA,NA,68,68
+108.wav,LO,LO,16,16
+39.wav,NOW,NOW,57,57
+292.wav,NOLL,ALL,38,83
+357.wav,NOR,NOR,34,34
+14.wav,HOW,HOW,46,46
+213.wav,NEER,LO,50,58
+207.wav,NE,NE,70,70
+168.wav,NE,NE,60,60
+17.wav,NOG,NOG,34,34
+7.wav,NILE,NILE,54,54
+82.wav,NOL,AN ALL,49,56
+312.wav,NORL,HO,51,52
+318.wav,O,NO HELP,74,82
+9.wav,O,AN ILL,0,10
+43.wav,NOW,NOW,54,54
+358.wav,NOL,AN ALL,44,46
+214.wav,NAIL,NAIL,87,87
+29.wav,NOW,NOW,67,67
+169.wav,E,YE,63,73
+234.wav,NON,NON,47,47
+237.wav,NALLO,YO,37,44
+192.wav,HO,HO,45,45
+189.wav,AN ARAN,AN ARAB,79,80
+28.wav,NOW,NOW,36,36
+257.wav,NOW,NOW,63,63
+93.wav,NOLL,AN ALL,49,54
+319.wav,YO,YO,0,0
+72.wav,NO HOP,NO HOP,51,51
+79.wav,NOLL,AN OIL,0,38
+297.wav,NORAH,NOAH,48,49
+153.wav,INO,YO KNOW,44,55
+212.wav,HO,HO,37,37
+54.wav,NEER,NEVER,74,75
+173.wav,NAIL,NAIL,66,66
+232.wav,NOO,NA,53,59
+33.wav,YOU KNOW,YOU KNOW,37,37
+12.wav,HOME,HOME,59,59
+258.wav,NOW,NOW,18,18
+114.wav,NOO,KNOWS IT,0,62
+2.wav,IN HO,IN HO,43,43
+18.wav,NOW,NOW,33,33
+83.wav,NOL,ENOL,3,4
+219.wav,KNO,KNOW,1,2
+174.wav,NE,NE,68,68
+4.wav,O,HEM,58,60
+239.wav,NON,NON,52,52
+194.wav,HE,HE,88,88
+307.wav,NA,NA,70,70
+262.wav,NAW,NARROW,85,86
+259.wav,NARROW,NARROW,66,66
+44.wav,NOW,NOW,58,58
+112.wav,NOR,NOR,4,4
+324.wav,O,ALL,32,57
+282.wav,NALL,AN ALL,43,44
+279.wav,NI,NI,51,51
+47.wav,NOW,NOW,47,47
+223.wav,INO,AN AL,40,48
+77.wav,NOL,IN ALL,1,43
+302.wav,HO,HO,36,36
+198.wav,NOL,NEIL,31,32
+308.wav,OLL,HE ALL,42,43
+8.wav,NOTM,NOT,47,49
+263.wav,NA,NA,39,39
+52.wav,NERO,NERO,47,47
+328.wav,O,LO,13,20
+
+Average Stats
+First Success Rate (%),100.00
+Final Success Rate (%),100.00
+Average First Attack Time (s),152.24
+Average Final Attack Time (s) for successful attacks,173.75
+Average First SNR (dB),-7.78
+Average Final SNR (dB) for successful attacks,-10.27
+Average First Attack Epoch,46.98
+Average Final Attack Epoch for successful attacks,51.93

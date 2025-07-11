@@ -1,0 +1,111 @@
+File Name,First Attack Transcription,Final Attack Transcription,First Attack Epoch,Final Attack Epoch
+204.wav,HUP,HAP,44,51
+786.wav,OB,OB,33,33
+34.wav,UH,UH,51,51
+789.wav,UT,UT,38,38
+13.wav,BUT,BUT,49,49
+453.wav,UK,BUT,40,42
+456.wav,ULP,OB,55,59
+199.wav,OP,OUT,45,48
+473.wav,PUP,PUP,44,44
+309.wav,AP,AT,49,61
+264.wav,OP,OFF,50,63
+476.wav,UB,UMP,41,45
+493.wav,UMP,UMP,54,54
+329.wav,AP,AB,52,56
+496.wav,OP,ARP,12,33
+202.wav,AP,HAP,28,39
+183.wav,AP,UH,42,49
+474.wav,UMP,UMP,57,57
+477.wav,AP,AMP,53,55
+542.wav,AP,AB,62,65
+539.wav,OP,HOP,51,56
+774.wav,AP,AT,29,49
+99.wav,OP,OF,14,15
+794.wav,AP,ART,35,37
+503.wav,AP,ARP,13,40
+184.wav,OUT,OUT,51,51
+709.wav,OP,BOP,44,53
+461.wav,BOT,PAT,46,50
+53.wav,AP,HAP,47,51
+314.wav,AP,AH,54,55
+481.wav,OME UP,COME UP,22,26
+317.wav,AP,AB,42,64
+32.wav,HART,HART,55,55
+108.wav,OP,WOT,53,86
+478.wav,UMP,UMP,34,34
+543.wav,AF,AF,41,41
+39.wav,HAP,HAP,42,42
+814.wav,AP,HOP,38,78
+498.wav,OP,ART,51,63
+569.wav,OP,ANT,28,46
+14.wav,AP,HART,0,41
+798.wav,AP,AH,47,50
+648.wav,AP,HAP,48,52
+713.wav,AP,AF,39,56
+504.wav,UT,UT,48,48
+507.wav,AP,ARP,40,41
+668.wav,AP,ARP,4,9
+524.wav,AP,OUT,70,73
+103.wav,OP,OB,41,42
+694.wav,UT,UT,62,62
+479.wav,UF,OF,46,47
+821.wav,AP,HO,0,54
+43.wav,OP,AB,48,74
+773.wav,UB,AB,32,35
+214.wav,AH,AH,62,62
+426.wav,UF,OF,1,2
+217.wav,AP,AB,41,46
+29.wav,OF,OF,45,45
+652.wav,AP,AF,41,43
+169.wav,UT,UT,46,46
+446.wav,UF,OF,7,53
+714.wav,UB,BUT,75,76
+466.wav,BAT,BAT,56,56
+319.wav,AT,AT,65,65
+489.wav,UT,UT,45,45
+819.wav,OP,MAP,76,83
+153.wav,AP,HAP,13,21
+212.wav,OUP,OUT,49,59
+218.wav,AP,AH,49,53
+594.wav,OP,TOP,6,31
+653.wav,AH,AH,57,57
+33.wav,OP,TOP,63,64
+512.wav,AP,AH,60,75
+303.wav,AP,AH,45,56
+12.wav,ELP,HELP,61,64
+467.wav,HUMP,HUMP,53,53
+323.wav,AP,AB,22,47
+2.wav,AP,ARP,82,83
+484.wav,UMP,UMP,52,52
+487.wav,UMP,UMP,57,57
+549.wav,NHAT,THAT,60,63
+18.wav,HUP,HAP,1,7
+219.wav,AP,AB,60,76
+4.wav,UB,ARB,57,67
+194.wav,A,AR,56,57
+304.wav,UB,AH,64,66
+719.wav,OP,ANT,19,24
+677.wav,AP,ARP,1,27
+48.wav,AP,HAP,5,41
+468.wav,UT,UT,43,43
+44.wav,AH,AH,63,63
+112.wav,OP,OUT,0,57
+491.wav,OUP,OUT,43,45
+488.wav,PUP,PUP,34,34
+514.wav,HUP,UT,62,67
+198.wav,OUT,OUT,50,50
+308.wav,AP,AT,20,80
+887.wav,UMP,UMP,6,6
+469.wav,O,UMP,73,74
+52.wav,AP,AB,37,47
+
+Average Stats
+First Success Rate (%),100.00
+Final Success Rate (%),100.00
+Average First Attack Time (s),119.76
+Average Final Attack Time (s) for successful attacks,143.05
+Average First SNR (dB),-7.58
+Average Final SNR (dB) for successful attacks,-10.31
+Average First Attack Epoch,41.97
+Average Final Attack Epoch for successful attacks,50.56

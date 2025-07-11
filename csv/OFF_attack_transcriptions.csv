@@ -1,0 +1,111 @@
+File Name,First Attack Transcription,Final Attack Transcription,First Attack Epoch,Final Attack Epoch
+136.wav,AFF,WE,71,72
+348.wav,OF,OF,20,20
+413.wav,OF,OF,15,15
+371.wav,OSS,OS,0,56
+156.wav,AFF,HALF,47,60
+368.wav,HALF,HALF,37,37
+436.wav,UFF,HUFF,43,48
+456.wav,ARF,MOUTH,82,89
+261.wav,ALLS,ASS,38,56
+473.wav,OLF,OF,46,50
+476.wav,ATH,AF,29,30
+493.wav,OF,OF,43,43
+349.wav,ORF,ENOUGH,20,42
+411.wav,UFF,LOVE,72,75
+202.wav,ORF,OF,82,118
+42.wav,OLF,ENOUGH,44,47
+369.wav,OS,OS,22,22
+431.wav,OF,OF,55,55
+222.wav,OLF,ORTH,34,40
+437.wav,OF,OF,52,52
+49.wav,OUFH,ENOUGH,45,46
+389.wav,OF,OF,30,30
+457.wav,F,EARTH,45,56
+477.wav,AFF,AF,52,66
+27.wav,ORF,ORT,40,52
+494.wav,UFF,ETH,33,98
+127.wav,ALF,HALF,23,58
+497.wav,ORF,INS,26,38
+53.wav,EARTH,EARTH,82,82
+458.wav,UFF,AF,49,55
+249.wav,OF,OF,32,32
+481.wav,EF,OF,34,43
+478.wav,OF,OF,16,16
+39.wav,ORF,OARS,17,20
+354.wav,OLF,OS,22,32
+357.wav,OLF,OS,26,30
+148.wav,ALF,HALF,16,78
+422.wav,OF,OF,43,43
+207.wav,ALF,BATH,57,88
+374.wav,HALF,HALF,51,51
+86.wav,ORF,WOLF,49,52
+439.wav,UFF,HUFF,37,47
+507.wav,ORF,NORTH,18,24
+462.wav,AF,AF,33,33
+459.wav,UF,TH,37,71
+482.wav,AF,AF,44,44
+479.wav,UFF,ETH,34,53
+146.wav,OLF,HALF,21,93
+22.wav,OLF,ELF,39,58
+211.wav,ORF,WOLF,0,64
+423.wav,OFS,OS,26,30
+214.wav,OF,OF,19,19
+381.wav,OUF,OS,26,30
+29.wav,ORF,PALLS,56,61
+446.wav,OF,OF,1,1
+192.wav,ORF,WOLF,38,47
+251.wav,ALF,HANDS,31,53
+107.wav,BOT,BOTH,65,66
+483.wav,UFF,ETH,34,47
+486.wav,OF,OF,30,30
+277.wav,ALF,HALF,30,36
+72.wav,ORF,NORTH,29,30
+339.wav,OF,OF,21,21
+401.wav,OF,OF,52,52
+153.wav,AFF,HALF,30,36
+359.wav,OF,OF,16,16
+421.wav,OF,OF,68,68
+212.wav,ELF,ELF,46,46
+427.wav,OF,OF,19,19
+379.wav,OF,OF,35,35
+232.wav,LF,ELF,23,30
+447.wav,UF,AF,63,65
+238.wav,OF,OF,21,21
+196.wav,OLF,WOLF,80,90
+464.wav,UFF,OF,54,84
+258.wav,ALS,ASK,49,54
+487.wav,AFF,AF,50,51
+343.wav,OLF,OS,1,29
+134.wav,AF,AF,55,55
+402.wav,OF,OF,63,63
+137.wav,ALF,HALF,33,35
+363.wav,OS,OS,25,25
+451.wav,AS,AS,43,43
+239.wav,OLF,ELF,52,53
+197.wav,OF,OF,26,26
+48.wav,OLF,ELF,56,58
+468.wav,UFF,HALF,89,91
+491.wav,AF,AF,37,37
+488.wav,OF,OF,62,62
+344.wav,OF,OF,19,19
+412.wav,UFF,OF,31,37
+432.wav,OF,OF,26,26
+429.wav,OF,OF,16,16
+452.wav,OLF,UP,89,99
+77.wav,ORF,ENOUGH,0,45
+198.wav,OLF,WOLF,46,50
+263.wav,ALF,HALF,41,45
+469.wav,UFF,OF,35,48
+492.wav,F,HALF,46,60
+119.wav,OFT,OFT,1,1
+
+Average Stats
+First Success Rate (%),100.00
+Final Success Rate (%),100.00
+Average First Attack Time (s),124.55
+Average Final Attack Time (s) for successful attacks,159.60
+Average First SNR (dB),-6.57
+Average Final SNR (dB) for successful attacks,-10.00
+Average First Attack Epoch,38.07
+Average Final Attack Epoch for successful attacks,47.41
